@@ -1,8 +1,8 @@
 name       : vertex-gtk-theme
-version    : 20150425
-release    : 3
+version    : 20150718
+release    : 4
 source     :
-    - https://github.com/horst3180/Vertex-theme/archive/20150425.tar.gz : be5e78c83195aed3784f32eae3d588e1ca242158ad1165167ffd47f891745045
+    - https://github.com/horst3180/Vertex-theme/archive/20150718.tar.gz : b947d7e975a101dbde902104102ee7b007cc2ed65133ad14e7ef1c1eeea17b4d
 license    : GPL-3.0
 summary    : Vertex Theme
 description: |
