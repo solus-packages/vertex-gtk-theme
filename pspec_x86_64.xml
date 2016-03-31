@@ -22,9 +22,9 @@
         </Files>
     </Package>
     <History>
-        <Update release="6">
-            <Date>2015-11-06</Date>
-            <Version>20150923</Version>
+        <Update release="7">
+            <Date>2016-03-31</Date>
+            <Version>20160329</Version>
             <Comment>Packaging update</Comment>
             <Name>Justin Zobel</Name>
             <Email>justin@solus-project.com</Email>
