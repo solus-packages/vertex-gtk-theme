@@ -2,8 +2,8 @@
     <Source>
         <Name>vertex-gtk-theme</Name>
         <Packager>
-            <Name>Ikey Doherty</Name>
-            <Email>ikey@solus-project.com</Email>
+            <Name>Justin Zobel</Name>
+            <Email>justin@solus-project.com</Email>
         </Packager>
         <License>GPL-3.0</License>
         <PartOf>desktop.theme</PartOf>
@@ -324,18 +324,6 @@
             <Path fileType="data">/usr/share/themes/Vertex-Dark/gtk-3.0/assets/scrollbar-slider-overlay-horizontal@2.png</Path>
             <Path fileType="data">/usr/share/themes/Vertex-Dark/gtk-3.0/assets/scrollbar-slider-overlay.png</Path>
             <Path fileType="data">/usr/share/themes/Vertex-Dark/gtk-3.0/assets/scrollbar-slider-overlay@2.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex-Dark/gtk-3.0/assets/scrollbar-slider-rtl-active-dark.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex-Dark/gtk-3.0/assets/scrollbar-slider-rtl-active-dark@2.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex-Dark/gtk-3.0/assets/scrollbar-slider-rtl-active.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex-Dark/gtk-3.0/assets/scrollbar-slider-rtl-active@2.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex-Dark/gtk-3.0/assets/scrollbar-slider-rtl-dark.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex-Dark/gtk-3.0/assets/scrollbar-slider-rtl-dark@2.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex-Dark/gtk-3.0/assets/scrollbar-slider-rtl-hover-dark.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex-Dark/gtk-3.0/assets/scrollbar-slider-rtl-hover-dark@2.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex-Dark/gtk-3.0/assets/scrollbar-slider-rtl-hover.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex-Dark/gtk-3.0/assets/scrollbar-slider-rtl-hover@2.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex-Dark/gtk-3.0/assets/scrollbar-slider-rtl.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex-Dark/gtk-3.0/assets/scrollbar-slider-rtl@2.png</Path>
             <Path fileType="data">/usr/share/themes/Vertex-Dark/gtk-3.0/assets/scrollbar-slider.png</Path>
             <Path fileType="data">/usr/share/themes/Vertex-Dark/gtk-3.0/assets/scrollbar-slider@2.png</Path>
             <Path fileType="data">/usr/share/themes/Vertex-Dark/gtk-3.0/assets/scrollbar-trough-dark.png</Path>
@@ -982,18 +970,6 @@
             <Path fileType="data">/usr/share/themes/Vertex-Light/gtk-3.0/assets/scrollbar-slider-overlay-horizontal@2.png</Path>
             <Path fileType="data">/usr/share/themes/Vertex-Light/gtk-3.0/assets/scrollbar-slider-overlay.png</Path>
             <Path fileType="data">/usr/share/themes/Vertex-Light/gtk-3.0/assets/scrollbar-slider-overlay@2.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex-Light/gtk-3.0/assets/scrollbar-slider-rtl-active-dark.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex-Light/gtk-3.0/assets/scrollbar-slider-rtl-active-dark@2.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex-Light/gtk-3.0/assets/scrollbar-slider-rtl-active.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex-Light/gtk-3.0/assets/scrollbar-slider-rtl-active@2.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex-Light/gtk-3.0/assets/scrollbar-slider-rtl-dark.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex-Light/gtk-3.0/assets/scrollbar-slider-rtl-dark@2.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex-Light/gtk-3.0/assets/scrollbar-slider-rtl-hover-dark.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex-Light/gtk-3.0/assets/scrollbar-slider-rtl-hover-dark@2.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex-Light/gtk-3.0/assets/scrollbar-slider-rtl-hover.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex-Light/gtk-3.0/assets/scrollbar-slider-rtl-hover@2.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex-Light/gtk-3.0/assets/scrollbar-slider-rtl.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex-Light/gtk-3.0/assets/scrollbar-slider-rtl@2.png</Path>
             <Path fileType="data">/usr/share/themes/Vertex-Light/gtk-3.0/assets/scrollbar-slider.png</Path>
             <Path fileType="data">/usr/share/themes/Vertex-Light/gtk-3.0/assets/scrollbar-slider@2.png</Path>
             <Path fileType="data">/usr/share/themes/Vertex-Light/gtk-3.0/assets/scrollbar-trough-dark.png</Path>
@@ -1742,18 +1718,6 @@
             <Path fileType="data">/usr/share/themes/Vertex/gtk-3.0/assets/scrollbar-slider-overlay-horizontal@2.png</Path>
             <Path fileType="data">/usr/share/themes/Vertex/gtk-3.0/assets/scrollbar-slider-overlay.png</Path>
             <Path fileType="data">/usr/share/themes/Vertex/gtk-3.0/assets/scrollbar-slider-overlay@2.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex/gtk-3.0/assets/scrollbar-slider-rtl-active-dark.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex/gtk-3.0/assets/scrollbar-slider-rtl-active-dark@2.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex/gtk-3.0/assets/scrollbar-slider-rtl-active.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex/gtk-3.0/assets/scrollbar-slider-rtl-active@2.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex/gtk-3.0/assets/scrollbar-slider-rtl-dark.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex/gtk-3.0/assets/scrollbar-slider-rtl-dark@2.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex/gtk-3.0/assets/scrollbar-slider-rtl-hover-dark.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex/gtk-3.0/assets/scrollbar-slider-rtl-hover-dark@2.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex/gtk-3.0/assets/scrollbar-slider-rtl-hover.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex/gtk-3.0/assets/scrollbar-slider-rtl-hover@2.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex/gtk-3.0/assets/scrollbar-slider-rtl.png</Path>
-            <Path fileType="data">/usr/share/themes/Vertex/gtk-3.0/assets/scrollbar-slider-rtl@2.png</Path>
             <Path fileType="data">/usr/share/themes/Vertex/gtk-3.0/assets/scrollbar-slider.png</Path>
             <Path fileType="data">/usr/share/themes/Vertex/gtk-3.0/assets/scrollbar-slider@2.png</Path>
             <Path fileType="data">/usr/share/themes/Vertex/gtk-3.0/assets/scrollbar-trough-dark.png</Path>
@@ -2100,12 +2064,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="8">
+        <Update release="9">
             <Date>2016-07-26</Date>
-            <Version>20160329</Version>
+            <Version>20170128</Version>
             <Comment>Packaging update</Comment>
-            <Name>Ikey Doherty</Name>
-            <Email>ikey@solus-project.com</Email>
+            <Name>Justin Zobel</Name>
+            <Email>justin@solus-project.com</Email>
         </Update>
     </History>
 </PISI>
