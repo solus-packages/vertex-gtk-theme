@@ -666,6 +666,25 @@
             <Path fileType="data">/usr/share/themes/Vertex-Dark/gtk-3.0/gtk.css</Path>
             <Path fileType="data">/usr/share/themes/Vertex-Dark/gtk-3.0/thumbnail.png</Path>
             <Path fileType="data">/usr/share/themes/Vertex-Dark/index.theme</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Dark/metacity-1/close.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Dark/metacity-1/close_prelight.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Dark/metacity-1/close_pressed.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Dark/metacity-1/close_unfocused.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Dark/metacity-1/max.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Dark/metacity-1/max_prelight.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Dark/metacity-1/max_pressed.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Dark/metacity-1/max_unfocused.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Dark/metacity-1/menu.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Dark/metacity-1/menu_prelight.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Dark/metacity-1/menu_unfocused.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Dark/metacity-1/metacity-theme-1.xml</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Dark/metacity-1/metacity-theme-2.xml</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Dark/metacity-1/metacity-theme-3.xml</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Dark/metacity-1/min.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Dark/metacity-1/min_prelight.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Dark/metacity-1/min_pressed.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Dark/metacity-1/min_unfocused.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Dark/metacity-1/thumbnail.png</Path>
             <Path fileType="data">/usr/share/themes/Vertex-Light/gtk-2.0/Arrows/arrow-down-insens.png</Path>
             <Path fileType="data">/usr/share/themes/Vertex-Light/gtk-2.0/Arrows/arrow-down-prelight.png</Path>
             <Path fileType="data">/usr/share/themes/Vertex-Light/gtk-2.0/Arrows/arrow-down-small-insens.png</Path>
@@ -1313,6 +1332,25 @@
             <Path fileType="data">/usr/share/themes/Vertex-Light/gtk-3.0/gtk.css</Path>
             <Path fileType="data">/usr/share/themes/Vertex-Light/gtk-3.0/thumbnail.png</Path>
             <Path fileType="data">/usr/share/themes/Vertex-Light/index.theme</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Light/metacity-1/close.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Light/metacity-1/close_prelight.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Light/metacity-1/close_pressed.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Light/metacity-1/close_unfocused.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Light/metacity-1/max.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Light/metacity-1/max_prelight.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Light/metacity-1/max_pressed.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Light/metacity-1/max_unfocused.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Light/metacity-1/menu.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Light/metacity-1/menu_prelight.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Light/metacity-1/menu_unfocused.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Light/metacity-1/metacity-theme-1.xml</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Light/metacity-1/metacity-theme-2.xml</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Light/metacity-1/metacity-theme-3.xml</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Light/metacity-1/min.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Light/metacity-1/min_prelight.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Light/metacity-1/min_pressed.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Light/metacity-1/min_unfocused.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex-Light/metacity-1/thumbnail.png</Path>
             <Path fileType="data">/usr/share/themes/Vertex/gnome-shell/assets/app-folder/app-folder-active.svg</Path>
             <Path fileType="data">/usr/share/themes/Vertex/gnome-shell/assets/app-folder/app-folder-focus.svg</Path>
             <Path fileType="data">/usr/share/themes/Vertex/gnome-shell/assets/app-folder/app-folder-hover.svg</Path>
@@ -2061,11 +2099,30 @@
             <Path fileType="data">/usr/share/themes/Vertex/gtk-3.0/gtk.css</Path>
             <Path fileType="data">/usr/share/themes/Vertex/gtk-3.0/thumbnail.png</Path>
             <Path fileType="data">/usr/share/themes/Vertex/index.theme</Path>
+            <Path fileType="data">/usr/share/themes/Vertex/metacity-1/close.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex/metacity-1/close_prelight.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex/metacity-1/close_pressed.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex/metacity-1/close_unfocused.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex/metacity-1/max.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex/metacity-1/max_prelight.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex/metacity-1/max_pressed.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex/metacity-1/max_unfocused.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex/metacity-1/menu.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex/metacity-1/menu_prelight.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex/metacity-1/menu_unfocused.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex/metacity-1/metacity-theme-1.xml</Path>
+            <Path fileType="data">/usr/share/themes/Vertex/metacity-1/metacity-theme-2.xml</Path>
+            <Path fileType="data">/usr/share/themes/Vertex/metacity-1/metacity-theme-3.xml</Path>
+            <Path fileType="data">/usr/share/themes/Vertex/metacity-1/min.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex/metacity-1/min_prelight.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex/metacity-1/min_pressed.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex/metacity-1/min_unfocused.svg</Path>
+            <Path fileType="data">/usr/share/themes/Vertex/metacity-1/thumbnail.png</Path>
         </Files>
     </Package>
     <History>
-        <Update release="9">
-            <Date>2016-07-26</Date>
+        <Update release="10">
+            <Date>2017-09-24</Date>
             <Version>20170128</Version>
             <Comment>Packaging update</Comment>
             <Name>Justin Zobel</Name>

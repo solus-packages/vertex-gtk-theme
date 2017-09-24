@@ -1,6 +1,6 @@
 name       : vertex-gtk-theme
 version    : '20170128'
-release    : 9
+release    : 10
 source     :
     - https://github.com/horst3180/vertex-theme/archive/20170128.tar.gz : 1540657ff247bcdb9c49a740e4ddf305aecd4f3bebc93ca566fe74d319b7a620
 license    : GPL-3.0
@@ -12,7 +12,7 @@ setup      : |
     autoreconf -vfi
     %configure  --disable-cinnamon \
                 --enable-gnome-shell \
-                --disable-metacity \
+                --enable-metacity \
                 --disable-unity \
                 --disable-xfwm \
                 --with-gnome=3.22
